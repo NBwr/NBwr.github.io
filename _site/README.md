@@ -1,6 +1,7 @@
 # Personal Website
 
-This is the repository for my personal website. You can find the website here: https://nbwr.github.io 
+This is the repository for my personal website. The site was built using Jekyll, HTML, CSS and JavaScript. <br />
+You can find the site here: https://nbwr.github.io 
 
 # The Website
 
