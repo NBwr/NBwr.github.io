@@ -2,6 +2,10 @@
 
 This is the repository for my personal website. You can find the website here: https://nbwr.github.io 
 
+# The Website
+
+<img src = "https://github.com/NBwr/NBwr.github.io/blob/master/assets/website.png">
+
 # Stack
 
 ![](https://img.shields.io/badge/jekyll-✓-blue.svg)
