@@ -149,7 +149,7 @@ a.change,a.change:visited,a.change:hover,a.change:active{
 	position:relative;
   transition:0.5s color ease;
 	text-decoration:none;
-	color:#646464;
+	color:#000000;
 	font-size:1em;
 }
 a.change:hover{
